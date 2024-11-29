@@ -22,7 +22,7 @@ function AboutComponent() {
               <img src={ProfileImg} width={250} alt="Ridwan Asandi" />
             </div>
             <h1 className="font-semibold text-xl pt-2">Ridwan Asandi</h1>
-            <h4>Frontend Deveplover</h4>
+            <h4>Frontend Developer</h4>
           </div>
           <div className="box-2 text-justify pt-10">
             <p>
