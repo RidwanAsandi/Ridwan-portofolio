@@ -10,7 +10,7 @@ const HeroComponent = () => {
         </h1>
         <p className="text-white text-lg">Web Developer</p>
         <div className="pt-2">
-          <a href="https://drive.google.com/file/d/19ScGQDwDaKwMhMrcI6OREjTwEqAncWGS/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1zhmPW_HjQG49ufyQZ35nM5A-KsA4vDju/view?usp=sharing">
             <button className="bg-slate-700 px-3 py-2 rounded-xl text-white hover:bg-slate-800">
               Resume Saya
             </button>
