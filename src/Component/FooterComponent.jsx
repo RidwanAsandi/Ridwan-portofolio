@@ -1,4 +1,3 @@
-import ImgWa from "../assets/img-social/whatsapp.png";
 import ImgInstagram from "../assets/img-social/instagram.png";
 import ImgGithub from "../assets/img-social/github.png";
 import ImgLinkedin from "../assets/img-social/linkedin.png";
@@ -12,9 +11,6 @@ const FooterComponent = () => {
         </p>
       </div>
       <div className="sosial flex justify-between gap-3">
-        <a href="https://web.whatsapp.com/">
-          <img src={ImgWa} width={30} alt="Whatsapp" />
-        </a>
         <a href="https://www.instagram.com/ridwanasnd/">
           <img src={ImgInstagram} width={30} alt="Instagram" />
         </a>
