@@ -1,15 +1,15 @@
 import { Modal } from "flowbite-react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import ImgRidwan from "../assets/CV-RidwanAsandi.png";
-import "aos/dist/aos.css";
-import Aos from "aos";
+// import "aos/dist/aos.css";
+// import Aos from "aos";
 
 const HeroComponent = () => {
   const [openModal, setOpenModal] = useState(false);
 
-  useEffect(() => {
-    Aos.init();
-  }, [])
+  // useEffect(() => {
+  //   Aos.init();
+  // }, [])
 
   return (
     <section className="bg-gray-900 min-h-screen rounded-b-lg">
