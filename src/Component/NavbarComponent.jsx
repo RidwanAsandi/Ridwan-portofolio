@@ -6,8 +6,7 @@ import {
   NavbarToggle,
 } from "flowbite-react";
 import { useEffect, useState } from "react";
-// import "aos/dist/aos.css";
-// import Aos from "aos";
+
 
 function NavbarComponent() {
   const [scroll, setScroll] = useState(false);
@@ -23,9 +22,7 @@ function NavbarComponent() {
     });
   });
 
-  // useEffect(() => {
-  //   Aos.init();
-  // }, [])
+  
 
   let scrollActive = scroll ? "py-3 bg-white shadow" : "py-2";
 
